@@ -27,7 +27,5 @@ Tech Stack:
 Home Page :
 <img width="1351" height="756" alt="image" src="https://github.com/user-attachments/assets/fe032f8b-5c0f-4984-89cc-7acdd35d7269" />
 
-Login page:
-<img width="1078" height="616" alt="image" src="https://github.com/user-attachments/assets/f6ce072e-f6bb-4268-b7ae-26e6f3e299e8" />
 
 
